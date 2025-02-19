@@ -1,0 +1,14 @@
+C:\Users\Franklin Wagbara\Documents\Turing\Production\batch2\Task2\PsycastCalculator-Task2\PsycastCalculator-Task2\bin\Debug\net8.0\PsycastCalculator-Task2.exe
+C:\Users\Franklin Wagbara\Documents\Turing\Production\batch2\Task2\PsycastCalculator-Task2\PsycastCalculator-Task2\bin\Debug\net8.0\PsycastCalculator-Task2.deps.json
+C:\Users\Franklin Wagbara\Documents\Turing\Production\batch2\Task2\PsycastCalculator-Task2\PsycastCalculator-Task2\bin\Debug\net8.0\PsycastCalculator-Task2.runtimeconfig.json
+C:\Users\Franklin Wagbara\Documents\Turing\Production\batch2\Task2\PsycastCalculator-Task2\PsycastCalculator-Task2\bin\Debug\net8.0\PsycastCalculator-Task2.dll
+C:\Users\Franklin Wagbara\Documents\Turing\Production\batch2\Task2\PsycastCalculator-Task2\PsycastCalculator-Task2\bin\Debug\net8.0\PsycastCalculator-Task2.pdb
+C:\Users\Franklin Wagbara\Documents\Turing\Production\batch2\Task2\PsycastCalculator-Task2\PsycastCalculator-Task2\obj\Debug\net8.0\PsycastCalculator-Task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Franklin Wagbara\Documents\Turing\Production\batch2\Task2\PsycastCalculator-Task2\PsycastCalculator-Task2\obj\Debug\net8.0\PsycastCalculator-Task2.AssemblyInfoInputs.cache
+C:\Users\Franklin Wagbara\Documents\Turing\Production\batch2\Task2\PsycastCalculator-Task2\PsycastCalculator-Task2\obj\Debug\net8.0\PsycastCalculator-Task2.AssemblyInfo.cs
+C:\Users\Franklin Wagbara\Documents\Turing\Production\batch2\Task2\PsycastCalculator-Task2\PsycastCalculator-Task2\obj\Debug\net8.0\PsycastCalculator-Task2.csproj.CoreCompileInputs.cache
+C:\Users\Franklin Wagbara\Documents\Turing\Production\batch2\Task2\PsycastCalculator-Task2\PsycastCalculator-Task2\obj\Debug\net8.0\PsycastCalculator-Task2.dll
+C:\Users\Franklin Wagbara\Documents\Turing\Production\batch2\Task2\PsycastCalculator-Task2\PsycastCalculator-Task2\obj\Debug\net8.0\refint\PsycastCalculator-Task2.dll
+C:\Users\Franklin Wagbara\Documents\Turing\Production\batch2\Task2\PsycastCalculator-Task2\PsycastCalculator-Task2\obj\Debug\net8.0\PsycastCalculator-Task2.pdb
+C:\Users\Franklin Wagbara\Documents\Turing\Production\batch2\Task2\PsycastCalculator-Task2\PsycastCalculator-Task2\obj\Debug\net8.0\PsycastCalculator-Task2.genruntimeconfig.cache
+C:\Users\Franklin Wagbara\Documents\Turing\Production\batch2\Task2\PsycastCalculator-Task2\PsycastCalculator-Task2\obj\Debug\net8.0\ref\PsycastCalculator-Task2.dll
