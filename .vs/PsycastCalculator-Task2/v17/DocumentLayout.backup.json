@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Franklin Wagbara\\Documents\\Turing\\Production\\batch2\\Task2\\PsycastCalculator-Task2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BFFB1CCC-9159-42D1-AF07-F015D182C706}|PsycastCalculator-Task2\\PsycastCalculator-Task2.csproj|c:\\users\\franklin wagbara\\documents\\turing\\production\\batch2\\task2\\psycastcalculator-task2\\psycastcalculator-task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BFFB1CCC-9159-42D1-AF07-F015D182C706}|PsycastCalculator-Task2\\PsycastCalculator-Task2.csproj|solutionrelative:psycastcalculator-task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{55540DF0-361B-410A-9832-1A19FA7B5CD4}|PsycastCalculatorTest\\PsycastCalculatorTest.csproj|c:\\users\\franklin wagbara\\documents\\turing\\production\\batch2\\task2\\psycastcalculator-task2\\psycastcalculatortest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{55540DF0-361B-410A-9832-1A19FA7B5CD4}|PsycastCalculatorTest\\PsycastCalculatorTest.csproj|solutionrelative:psycastcalculatortest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFFB1CCC-9159-42D1-AF07-F015D182C706}|PsycastCalculator-Task2\\PsycastCalculator-Task2.csproj|c:\\users\\franklin wagbara\\documents\\turing\\production\\batch2\\task2\\psycastcalculator-task2\\psycastcalculator-task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFFB1CCC-9159-42D1-AF07-F015D182C706}|PsycastCalculator-Task2\\PsycastCalculator-Task2.csproj|solutionrelative:psycastcalculator-task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "C:\\Users\\Franklin Wagbara\\Documents\\Turing\\Production\\batch2\\Task2\\PsycastCalculator-Task2\\PsycastCalculatorTest\\UnitTest1.cs",
               "RelativeDocumentMoniker": "PsycastCalculatorTest\\UnitTest1.cs",
               "ToolTip": "C:\\Users\\Franklin Wagbara\\Documents\\Turing\\Production\\batch2\\Task2\\PsycastCalculator-Task2\\PsycastCalculatorTest\\UnitTest1.cs",
               "RelativeToolTip": "PsycastCalculatorTest\\UnitTest1.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAiwD4AAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAFgAAAAAAAAAAADwv2sAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-19T10:40:37.141Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Franklin Wagbara\\Documents\\Turing\\Production\\batch2\\Task2\\PsycastCalculator-Task2\\PsycastCalculator-Task2\\Program.cs",
               "RelativeDocumentMoniker": "PsycastCalculator-Task2\\Program.cs",
               "ToolTip": "C:\\Users\\Franklin Wagbara\\Documents\\Turing\\Production\\batch2\\Task2\\PsycastCalculator-Task2\\PsycastCalculator-Task2\\Program.cs",
               "RelativeToolTip": "PsycastCalculator-Task2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwBYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-19T10:33:11.435Z",
               "EditorCaption": ""
